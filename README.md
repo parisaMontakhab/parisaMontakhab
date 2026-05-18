@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 
 👋 Hi, I’m Parisa, a Junior Frontend Developer based in Rome with a background in Software Engineering.
 
