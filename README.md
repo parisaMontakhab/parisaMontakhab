@@ -1,5 +1,20 @@
 # 💫 About Me:
-🎯 I’m currently working on:<br><br>Developing a web application called "Chemanca" using Next.js and Tailwind and Typscript to create a modern and user-friendly interface.<br><br>🤝 I’m looking to collaborate on:<br><br>Open-source projects to expand my knowledge and contribute to the community.<br><br>🙌 I’m looking for help with:<br><br>Advanced debugging techniques and best practices for optimizing performance in React applications.<br><br>🌱 I’m currently learning:<br><br>Redux and advanced state management techniques to streamline data flow and enhance scalability in future projects.<br><br>💬 Ask me about:<br><br>Front-end development, React, and creating responsive web designs.<br><br>⚡ Fun fact:<br><br>I enjoy solving coding challenges on HackerRank to sharpen my problem-solving skills.<br><br>
+# 💫 About Me:
+
+👋 Hi, I’m Parisa, a Junior Frontend Developer based in Rome with a background in Software Engineering.
+
+💻 I have hands-on experience building responsive and maintainable web applications using React, Next.js, TypeScript, Tailwind CSS, and REST API integrations.
+
+🤝 I enjoy working in collaborative environments, building reusable UI components, and turning Figma designs into clean and user-friendly interfaces.
+
+🌱 I’m currently expanding my skills into backend development with Node.js, Express.js, and MongoDB as I continue my journey toward becoming a Full-Stack Developer.
+
+💬 Ask me about:
+React, Next.js, TypeScript, responsive design, frontend workflows, and API integration.
+
+⚡ Fun fact:
+I enjoy solving coding challenges and continuously learning new technologies.
+
 
 
 ## 🌐 Socials:
