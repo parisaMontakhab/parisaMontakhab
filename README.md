@@ -8,6 +8,10 @@ I enjoy building modern web applications from user interfaces to REST APIs, auth
 
 My main focus is JavaScript and TypeScript development using React, Next.js, Node.js, Express.js, and MongoDB.
 
+### 🌐 Portfolio
+
+👉 [Visit my Portfolio](https://parisa-portfolio-nu.vercel.app)
+
 ---
 
 ## 🚀 About Me
@@ -116,6 +120,8 @@ I'm especially interested in teams where I can contribute to real-world projects
 ---
 
 ## 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://parisa-portfolio-nu.vercel.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parisa_Montakhabisani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parisamontakhabisani)
 
